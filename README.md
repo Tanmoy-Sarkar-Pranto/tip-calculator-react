@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Built with
 
-- [Next.js](https://nextjs.org/) - React framework
+- [React](https://reactjs.org/) - JS library
 - Tailwind CSS
 - Flexbox
 - Mobile-first workflow
