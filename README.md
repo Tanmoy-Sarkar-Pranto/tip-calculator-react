@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [url](https://www.frontendmentor.io/solutions/responsive-tip-calculator-with-react-0ObsYt1b1M)
+- Live Site URL: [url](https://tip-calculator-react-eta.vercel.app/)
 
 ## My process
 
@@ -42,5 +42,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://my-portfolio-six-delta-12.vercel.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Tanmoy-Sarkar-Pranto)
+- Website - [Tanmoy Sarkar Pranto](https://my-portfolio-six-delta-12.vercel.app/)
+- Frontend Mentor - [@Tanmoy-Sarkar-Pranto](https://www.frontendmentor.io/profile/Tanmoy-Sarkar-Pranto)
